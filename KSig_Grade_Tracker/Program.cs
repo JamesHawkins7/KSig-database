@@ -2,4 +2,4 @@
 
 using KSig_Grade_Tracker.Managers;
 
-Start.ConsoleStart();
+HomeManager.LoadHomeMenu();
